@@ -1,0 +1,31 @@
+
+
+h1#my_heading {
+    color: red;
+}
+
+li#my_apple {
+    color: green;
+}
+
+li.my_orange {
+    border-bottom: 1px solid red;
+}
+
+input[value='Send Email'] {
+    border: 1px solid red;
+}
+
+img {
+    width: 200px;
+}
+
+div.news {
+    border: 1px solid red;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
+div.hot {
+    background-color: rgb(236, 73, 73);
+}
