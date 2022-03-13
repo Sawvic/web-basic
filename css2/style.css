@@ -1,0 +1,16 @@
+h4#shine,p,li#shne{
+    color: red;
+}
+li.my_boob{
+   border: solid 1px red ; 
+}
+input[id=youremail]{
+    border: solid 2cm blue;
+}
+input[value=confime]{
+    background: red;
+}
+input[id="your password"]{
+    color: black;
+    background: red;
+}
